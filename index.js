@@ -22,7 +22,7 @@ let movies = [
     name: "Avatar 2",
     des:
       "Avatar: The Way of Water begins to tell the story of the Sully family, the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
-    image: "images/avatar2.jpg"
+    image: "images/avatar2.png"
   },
 
   {
